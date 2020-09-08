@@ -1,3 +1,4 @@
+test
 今天(2020-03-07)终于把PDF版本的《JavaGuide面试突击版》搞定！废话不多说，直接上成品：
 
 ![](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-11/javaguide-面试突击版.jpg)
